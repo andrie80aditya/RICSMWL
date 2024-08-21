@@ -1,1 +1,2 @@
-# FerizzaMWL
+# RICS MWL Web API
+RICS MWL Web API streamlines the transfer of patient data from HIS/RIS to imaging modalities like CT, MRI, and CR, automating the process and reducing manual input. Built with .NET Core and SQL Server, it ensures high performance, scalability, and secure data management. Using DICOM Tag standards, it improves data accuracy and integration, while Swagger Documentation enhances usability. The API boosts efficiency, reduces errors, and modernizes radiology workflows, making it a vital tool for healthcare facilities.
